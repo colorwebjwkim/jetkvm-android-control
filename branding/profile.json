@@ -1,0 +1,18 @@
+{
+  "brand": "NexaCore",
+  "logo": "Logo.png",
+  "sourceDimensions": {
+    "width": 93,
+    "height": 92
+  },
+  "palette": {
+    "coral": "#F1766E",
+    "gold": "#F5C74B",
+    "lime": "#CDDD55",
+    "green": "#89C75C",
+    "teal": "#5EC4AF",
+    "sky": "#509AC4",
+    "blue": "#576FB5"
+  },
+  "usage": "Keep the original transparent logo and aspect ratio. Use neutral surfaces, blue and teal actions, green success, gold caution, coral errors. Adjust semantic shades for readable contrast."
+}

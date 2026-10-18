@@ -1,0 +1,25 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Local diagnostics and generated files
+verification/
+.local/
+**/bin/
+**/obj/
+**/__pycache__/
+*.log
+
+# Credentials and signing material
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.key
+key.properties
